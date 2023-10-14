@@ -1,4 +1,4 @@
-package com.github.youssfbr.dio.criada.para.a.Santander.Dev.Week3;
+package com.github.youssfbr.dio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
